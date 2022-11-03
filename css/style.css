@@ -2,6 +2,7 @@
 
 body {
   margin: 0;
+  font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
 }
 
 p {
@@ -9,7 +10,7 @@ p {
 }
 
 main {
-  width: 500px;
+  width: 300px;
   margin: 0 auto;
   text-align: center;
 }
